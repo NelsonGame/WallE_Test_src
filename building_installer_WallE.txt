@@ -1,0 +1,1 @@
+copy /b 7zS.sfx + config.txt + WallE_Test_v1.0.0_Install.7z WallE_Test_v1.0.0_Install.exe

@@ -1,0 +1,653 @@
+[Workspace Header]
+Version = 1302
+Pathname = "/c/WallE/WallE_Test_src/WallE_testsoftware.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2013"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2013"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "WallE_testsoftware.prj"
+Drag Bar Left = 390
+Window Top = 60
+Window Left = 131
+Window Bottom = 954
+Window Right = 1627
+Maximized = False
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 30
+Window Confinement Region Enabled = True
+MainColumnWidth = 373
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1302
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/WallE/WallE_Test_src/sources/DevComm.c"
+File Type = "CSource"
+Disk Date = 3511206977
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Window Z-Order = 15
+Source Window State = "1,262,262,262,4,37,4,0,0,76,0,0,0,0,0,23,13,0,17,2,323,683,1,0,"
+
+[File 0002]
+Path = "/c/WallE/WallE_Test_src/sources/LedTest.c"
+File Type = "CSource"
+Disk Date = 3510064867
+In Projects = "1,"
+Window Top = 152
+Window Left = 74
+Window Z-Order = 29
+Source Window State = "1,61,138,61,0,0,0,0,0,80,0,3,0,3,0,25,40,0,53,35,349,715,1,0,"
+
+[File 0003]
+Path = "/c/WallE/WallE_Test_src/sources/NandTest.c"
+File Type = "CSource"
+Disk Date = 3498754758
+In Projects = ""
+Window Top = 92
+Window Left = 42
+Window Z-Order = 30
+Source Window State = "1,24,24,24,8,23,8,0,0,80,0,1,0,1,0,25,52,0,76,10,349,715,1,0,"
+
+[File 0004]
+Path = "/c/WallE/WallE_Test_src/sources/TestItems.c"
+File Type = "CSource"
+Disk Date = 3513184349
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 8
+Source Window State = "1,102,102,102,14,30,14,0,0,76,0,0,0,0,0,25,0,0,412,4,349,683,1,0,"
+
+[File 0005]
+Path = "/c/WallE/WallE_Test_src/sources/PowerSupply.c"
+File Type = "CSource"
+Disk Date = 3510169865
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 9
+Source Window State = "1,110,116,110,8,16,8,0,0,80,0,0,0,0,0,16,0,0,10,14,232,715,1,0,"
+
+[File 0006]
+Path = "/c/WallE/WallE_Test_src/sources/GpsCnTest.c"
+File Type = "CSource"
+Disk Date = 3511288477
+In Projects = "1,"
+Window Top = 95
+Window Left = 42
+Window Z-Order = 13
+Source Window State = "1,117,117,117,4,21,21,0,0,80,0,2,0,2,0,22,188,0,199,6,310,715,1,0,"
+
+[File 0007]
+Path = "/c/WallE/WallE_Test_src/headers/NandTest.h"
+File Type = "Include"
+Disk Date = 3487599156
+In Projects = ""
+Window Top = 64
+Window Left = 26
+Window Z-Order = 27
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,22,0,0,0,0,310,715,1,0,"
+
+[File 0008]
+Path = "/c/WallE/WallE_Test_src/sources/AmtFwLoader.c"
+File Type = "CSource"
+Disk Date = 3487599156
+In Projects = ""
+Window Top = 33
+Window Left = 10
+Window Z-Order = 28
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,22,0,0,0,0,310,715,1,0,"
+
+[File 0009]
+Path = "/c/WallE/WallE_Test_src/sources/ChargingTest.c"
+File Type = "CSource"
+Disk Date = 3487599156
+In Projects = ""
+Window Top = 33
+Window Left = 10
+Window Z-Order = 26
+Source Window State = "1,15,15,15,54,65,65,0,3,80,0,0,0,0,0,22,0,0,15,54,310,715,1,0,"
+
+[File 0010]
+Path = "/c/WallE/WallE_Test_src/sources/TestLog.c"
+File Type = "CSource"
+Disk Date = 3510346171
+In Projects = "1,"
+Window Top = 152
+Window Left = 74
+Window Z-Order = 17
+Source Window State = "1,30,30,30,6,13,13,0,3,76,0,1,0,1,0,23,19,0,30,6,323,683,1,0,"
+
+[File 0011]
+Path = "/c/WallE/WallE_Test_src/WallE_main.c"
+File Type = "CSource"
+Disk Date = 3513259735
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 4
+Source Window State = "1,633,633,633,16,27,27,0,0,76,0,0,0,0,0,25,512,0,537,91,349,683,1,0,"
+
+[File 0012]
+Path = "/c/WallE/WallE_Test_src/headers/TestCommon.h"
+File Type = "Include"
+Disk Date = 3513192717
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 5
+Source Window State = "1,6,6,6,8,15,15,0,0,80,0,0,0,0,0,20,53,0,70,0,284,715,1,0,"
+
+[File 0013]
+Path = "/c/WallE/WallE_Test_src/WallE.h"
+File Type = "Include"
+Disk Date = 3510844277
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 24
+Source Window State = "1,38,38,38,9,29,9,0,0,60,0,0,0,0,0,20,11,0,37,17,284,555,1,0,"
+
+[File 0014]
+Path = "/c/WallE/WallE_Test_src/sources/PowerOnSelfTest.c"
+File Type = "CSource"
+Disk Date = 3513269344
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Window Z-Order = 2
+Source Window State = "1,68,95,68,4,70,4,0,0,80,0,100,0,100,0,22,7,0,96,34,310,715,1,0,"
+
+[File 0015]
+Path = "/c/WallE/WallE_Test_src/sources/SerialDevice.c"
+File Type = "CSource"
+Disk Date = 3509037112
+In Projects = "1,"
+Window Top = 31
+Window Z-Order = 16
+Source Window State = "1,11,11,11,5,19,19,0,0,66,0,0,0,0,0,28,0,0,27,12,400,600,1,0,"
+
+[File 0016]
+Path = "/c/WallE/WallE_Test_src/WallE.uir"
+File Type = "User Interface Resource"
+Disk Date = 3510850914
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Height = 349
+Window Width = 699
+
+[File 0017]
+Path = "/c/Program Files (x86)/National Instruments/CVI2013/include/cvidef.h"
+File Type = "Include"
+Disk Date = 3486531600
+In Projects = ""
+Window Top = 33
+Window Left = 10
+Window Z-Order = 25
+Source Window State = "1,210,210,210,45,50,50,0,3,80,0,0,0,0,0,25,187,0,210,45,349,715,1,0,"
+
+[File 0018]
+Path = "/c/WallE/WallE_Test_src/sources/gps_track.c"
+File Type = "CSource"
+Disk Date = 3511288478
+In Projects = "1,"
+Window Top = 157
+Window Left = 74
+Window Z-Order = 14
+Source Window State = "1,304,304,304,4,106,4,0,0,80,0,316,0,316,0,25,44,0,63,7,349,715,1,0,"
+
+[File 0019]
+Path = "/c/WallE/WallE_Test_src/headers/DevComm.h"
+File Type = "Include"
+Disk Date = 3508863820
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 18
+Source Window State = "1,12,12,12,4,16,16,0,3,80,0,0,0,0,0,25,0,0,12,4,349,715,1,0,"
+
+[File 0020]
+Path = "/c/WallE/WallE_Test_src/headers/GpsCnTest.h"
+File Type = "Include"
+Disk Date = 3487599156
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 23
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,0,0,349,715,1,0,"
+
+[File 0021]
+Path = "/c/WallE/WallE_Test_src/sources/NfcTest.c"
+File Type = "CSource"
+Disk Date = 3511288478
+In Projects = "1,"
+Window Top = 182
+Window Left = 90
+Window Z-Order = 10
+Source Window State = "1,44,44,44,22,24,22,0,0,80,0,3,0,3,0,25,6,0,27,23,349,715,1,0,"
+
+[File 0022]
+Path = "/c/WallE/WallE_Test_src/sources/GpsFixTest.c"
+File Type = "CSource"
+Disk Date = 3510865067
+In Projects = ""
+Window Top = 126
+Window Left = 58
+Window Z-Order = 22
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,24,45,0,57,6,336,715,1,0,"
+
+[File 0023]
+Path = "/c/WallE/WallE_Test_src/sources/GyroTest.c"
+File Type = "CSource"
+Disk Date = 3498751099
+In Projects = ""
+Window Top = 157
+Window Left = 74
+Window Z-Order = 21
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,24,71,0,90,18,336,715,1,0,"
+
+[File 0024]
+Path = "/c/WallE/WallE_Test_src/sources/PmicTest.c"
+File Type = "CSource"
+Disk Date = 3508866226
+In Projects = ""
+Window Top = 188
+Window Left = 90
+Window Z-Order = 20
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,24,50,0,62,14,336,715,1,0,"
+
+[File 0025]
+Path = "/c/WallE/WallE_Test_src/headers/TestLog.h"
+File Type = "Include"
+Disk Date = 3491864030
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 19
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,20,0,0,3,12,284,715,1,0,"
+
+[File 0026]
+Path = "/c/WallE/WallE_Test_src/sources/VersionTest.c"
+File Type = "CSource"
+Disk Date = 3510928270
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 3
+Source Window State = "1,265,265,265,4,19,19,0,0,80,0,3,0,3,0,18,0,0,311,4,258,715,1,0,"
+Breakpoint 0001 = "310,0,enabled,"
+
+[File 0027]
+Path = "/c/WallE/WallE_Test_src/sources/gasgauge.c"
+File Type = "CSource"
+Disk Date = 3511288478
+In Projects = "1,"
+Window Top = 157
+Window Left = 74
+Window Z-Order = 11
+Source Window State = "1,43,50,43,8,62,8,0,0,80,0,0,0,0,0,25,7,0,19,6,349,715,1,0,"
+
+[File 0028]
+Path = "/c/WallE/WallE_Test_src/sources/mfiTest.c"
+File Type = "CSource"
+Disk Date = 3511288478
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 12
+Source Window State = "1,6,7,6,0,21,0,0,0,80,0,63,0,63,0,25,5,0,18,18,349,715,1,0,"
+
+[File 0029]
+Path = "/c/WallE/WallE_Test_src/headers/TestItems.h"
+File Type = "Include"
+Disk Date = 3513184040
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Window Z-Order = 6
+Source Window State = "1,28,28,28,8,24,8,0,0,76,0,0,0,0,0,25,100,0,21,99,349,683,1,0,"
+
+[File 0030]
+Path = "/c/WallE/WallE_Test_src/headers/TestSequence.h"
+File Type = "Include"
+Disk Date = 3487599156
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 7
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,0,0,349,715,1,0,"
+
+[File 0031]
+Path = "/c/WallE/WallE_Test_src/sources/TestSequence.c"
+File Type = "CSource"
+Disk Date = 3513269397
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 1
+Source Window State = "1,32,32,32,8,30,8,0,0,129,0,0,0,0,0,59,16,0,41,16,310,683,1,0,"
+
+[File 0032]
+Path = "/c/WallE/WallE_Test_src/headers/Gps101.h"
+File Type = "Include"
+Disk Date = 3491414618
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0033]
+Path = "/c/WallE/WallE_Test_src/headers/LedTest.h"
+File Type = "Include"
+Disk Date = 3487599156
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0034]
+Path = "/c/WallE/WallE_Test_src/headers/NfcTest.h"
+File Type = "Include"
+Disk Date = 3487599156
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0035]
+Path = "/c/WallE/WallE_Test_src/sources/post_test.h"
+File Type = "Include"
+Disk Date = 3508950447
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,336,715,1,0,"
+
+[File 0036]
+Path = "/c/WallE/WallE_Test_src/headers/PowerSupply.h"
+File Type = "Include"
+Disk Date = 3508870084
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Source Window State = "1,0,2,0,0,26,0,0,3,0,0,0,0,0,0,0,0,0,2,26,349,715,1,0,"
+
+[File 0037]
+Path = "/c/WallE/WallE_Test_src/headers/sensorstest.h"
+File Type = "Include"
+Disk Date = 3509482704
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,271,715,1,0,"
+
+[File 0038]
+Path = "/c/WallE/WallE_Test_src/headers/sentence.h"
+File Type = "Include"
+Disk Date = 3507921912
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0039]
+Path = "/c/WallE/WallE_Test_src/headers/SerialDevice.h"
+File Type = "Include"
+Disk Date = 3487599156
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0040]
+Path = "/c/WallE/WallE_Test_src/headers/SounderTest.h"
+File Type = "Include"
+Disk Date = 3487599156
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0041]
+Path = "/c/WallE/WallE_Test_src/headers/VersionTest.h"
+File Type = "Include"
+Disk Date = 3509735873
+In Projects = "1,"
+Window Top = 157
+Window Left = 74
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,27,323,715,1,0,"
+
+[File 0042]
+Path = "/c/WallE/WallE_Test_src/headers/VibratorTest.h"
+File Type = "Include"
+Disk Date = 3487599156
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,271,715,1,0,"
+
+[File 0043]
+Path = "/c/WallE/WallE_Test_src/sources/Gps101.c"
+File Type = "CSource"
+Disk Date = 3491256666
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,28,13,310,715,1,0,"
+
+[File 0044]
+Path = "/c/WallE/WallE_Test_src/sources/SensorsTest.c"
+File Type = "CSource"
+Disk Date = 3510263474
+In Projects = "1,"
+Window Top = 126
+Window Left = 58
+Source Window State = "1,89,92,89,0,117,0,0,0,0,0,0,0,0,0,0,117,0,89,0,310,715,1,0,"
+
+[File 0045]
+Path = "/c/WallE/WallE_Test_src/sources/SounderTest.c"
+File Type = "CSource"
+Disk Date = 3510239562
+In Projects = "1,"
+Window Top = 122
+Window Left = 58
+Source Window State = "1,78,78,78,4,76,4,0,0,0,0,3,0,3,0,0,5,0,17,6,349,715,0,0,"
+
+[File 0046]
+Path = "/c/WallE/WallE_Test_src/sources/VibratorTest.c"
+File Type = "CSource"
+Disk Date = 3509714922
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Source Window State = "1,37,37,37,4,68,4,0,3,0,0,3,0,3,0,0,25,0,37,68,349,715,1,0,"
+
+[File 0047]
+Path = "/c/WallE/WallE_Test_src/ConfigFiles/board_rev.ini"
+File Type = "Unknown"
+Disk Date = 3510238042
+In Projects = "1,"
+
+[File 0048]
+Path = "/c/WallE/WallE_Test_src/ConfigFiles/ModuleLevelTestItems.ini"
+File Type = "Unknown"
+Disk Date = 3510749973
+In Projects = "1,"
+
+[File 0049]
+Path = "/c/WallE/WallE_Test_src/ConfigFiles/ModuleLevelTestItems_GPS10.ini"
+File Type = "Unknown"
+Disk Date = 3510751294
+In Projects = "1,"
+
+[File 0050]
+Path = "/c/WallE/WallE_Test_src/ConfigFiles/ModuleLevelTestItems_LabSat3.ini"
+File Type = "Unknown"
+Disk Date = 3510604232
+In Projects = "1,"
+
+[File 0051]
+Path = "/c/WallE/WallE_Test_src/ConfigFiles/ModuleLevelTestItems_Prog.ini"
+File Type = "Unknown"
+Disk Date = 3510751463
+In Projects = "1,"
+
+[File 0052]
+Path = "/c/WallE/WallE_Test_src/ConfigFiles/PCBALevelTestItems.ini"
+File Type = "Unknown"
+Disk Date = 3510751521
+In Projects = "1,"
+
+[File 0053]
+Path = "/c/WallE/WallE_Test_src/ConfigFiles/PCBALevelTestItems_GPS10.ini"
+File Type = "Unknown"
+Disk Date = 3510753482
+In Projects = "1,"
+
+[File 0054]
+Path = "/c/WallE/WallE_Test_src/ConfigFiles/TestStationOptions.ini"
+File Type = "Unknown"
+Disk Date = 3510757290
+In Projects = "1,"
+
+[Tab Order]
+Tab 0001 = "/c/WallE/WallE_Test_src/sources/LedTest.c"
+Tab 0002 = "/c/WallE/WallE_Test_src/sources/NandTest.c"
+Tab 0003 = "/c/WallE/WallE_Test_src/sources/TestItems.c"
+Tab 0004 = "/c/WallE/WallE_Test_src/sources/GpsCnTest.c"
+Tab 0005 = "/c/WallE/WallE_Test_src/sources/PowerSupply.c"
+Tab 0006 = "/c/WallE/WallE_Test_src/sources/AmtFwLoader.c"
+Tab 0007 = "/c/WallE/WallE_Test_src/headers/NandTest.h"
+Tab 0008 = "/c/WallE/WallE_Test_src/sources/ChargingTest.c"
+Tab 0009 = "/c/WallE/WallE_Test_src/sources/TestLog.c"
+Tab 0010 = "/c/WallE/WallE_Test_src/sources/SerialDevice.c"
+Tab 0011 = "/c/Program Files (x86)/National Instruments/CVI2013/include/cvidef.h"
+Tab 0012 = "/c/WallE/WallE_Test_src/WallE.h"
+Tab 0013 = "/c/WallE/WallE_Test_src/sources/gps_track.c"
+Tab 0014 = "/c/WallE/WallE_Test_src/headers/GpsCnTest.h"
+Tab 0015 = "/c/WallE/WallE_Test_src/sources/DevComm.c"
+Tab 0016 = "/c/WallE/WallE_Test_src/sources/GpsFixTest.c"
+Tab 0017 = "/c/WallE/WallE_Test_src/sources/GyroTest.c"
+Tab 0018 = "/c/WallE/WallE_Test_src/sources/NfcTest.c"
+Tab 0019 = "/c/WallE/WallE_Test_src/sources/PmicTest.c"
+Tab 0020 = "/c/WallE/WallE_Test_src/headers/TestCommon.h"
+Tab 0021 = "/c/WallE/WallE_Test_src/sources/PowerOnSelfTest.c"
+Tab 0022 = "/c/WallE/WallE_Test_src/headers/DevComm.h"
+Tab 0023 = "/c/WallE/WallE_Test_src/headers/TestLog.h"
+Tab 0024 = "/c/WallE/WallE_Test_src/sources/VersionTest.c"
+Tab 0025 = "/c/WallE/WallE_Test_src/sources/mfiTest.c"
+Tab 0026 = "/c/WallE/WallE_Test_src/sources/gasgauge.c"
+Tab 0027 = "/c/WallE/WallE_Test_src/headers/TestItems.h"
+Tab 0028 = "/c/WallE/WallE_Test_src/headers/TestSequence.h"
+Tab 0029 = "/c/WallE/WallE_Test_src/sources/TestSequence.c"
+Tab 0030 = "/c/WallE/WallE_Test_src/WallE_main.c"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "No Run-time Checking"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Distributions]
+Active Index = 1
+AbsCDSPath 0001 = "/c/WallE/WallE_Test_src/WallE_testsoftware.cds"
+RelCDSPath 0001 = "WallE_testsoftware.cds"
+

@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="WallE_Test v1.0.0"
+BeginPrompt="WallE_Test v1.0.0?"
+RunProgram="WallE_Test_v1.0.0_Install\setup.exe"
+;!@InstallEnd@!
